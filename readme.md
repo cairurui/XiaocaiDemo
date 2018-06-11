@@ -1,4 +1,4 @@
-这个是 master 上的 readme
+这个是 change_theme 上的 readme
 
 在原来的基础上做了修改，
 	1. 在本地 master 上
